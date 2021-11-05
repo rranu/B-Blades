@@ -1,0 +1,17 @@
+title: B-Blades
+description: Embrace the B
+originalAuthor: Sloth
+logo: icon.png
+assets:
+- name: msg/jp/sys.bar
+  multi:
+  - name: msg/us/sys.bar
+  - name: msg/uk/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jp/sys.yml
+      language: en
