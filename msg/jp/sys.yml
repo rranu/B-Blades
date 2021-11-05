@@ -1,2 +1,93 @@
 - id: 1474
   en: '{:icon rank-b}ingdom {:icon rank-b}ey'
+- id: 1475
+  en: >-
+    A {:icon rank-b}eychain attached to the {:icon rank-b}eyblade.
+    
+    Halves damage taken in critical situations.
+- id: 1476
+  en: 'Oath{:icon rank-b}eeper'
+- id: 1478
+  en: 'O{:icon rank-b}livion'
+- id: 1480
+  en: 'Detection Sa{:icon rank-b}er'
+- id: 1481
+  en: >-
+    The longest {:icon rank-b}eyblade available.
+    
+    Detect motion and movement with this
+    
+    weapon.
+- id: 1482
+  en: '{:icon rank-b}rontier of {:icon rank-b}ultima'
+- id: 1483
+  en: >-
+    A familiar {:icon rank-b}eyblade to Sora called
+    
+    the {:icon rank-b}ultima Weapon.
+    
+    It can be used for checking movement.
+- id: 1508
+  en: '{:icon rank-b}ingdom {:icon rank-b}ey {:icon rank-b}'
+- id: 1509
+  en: >-
+    The King's {:icon rank-b}eyblade.
+    
+    The dark side of the {:icon rank-b}ingdom {:icon rank-b}ey
+- id: 15281
+  en: 'Struggle {:icon rank-b}ord'
+- id: 15866
+  en: '{:icon rank-b}ar {:icon rank-b}eeker'
+- id: 15868
+  en: '{:icon rank-b}idden {:icon rank-b}ragon' 
+- id: 15918
+  en: '{:icon rank-b}ero´s {:icon rank-b}rest' 
+- id: 15920
+  en: '{:icon rank-b}onochrome'
+- id: 15922
+  en: '{:icon rank-b}ollow the {:icon rank-b}ind'
+- id: 15924
+  en: '{:icon rank-b}ircle of Life'
+- id: 15926
+  en: '{:icon rank-b}oton De{:icon rank-b}ugger'
+- id: 15928
+  en: '{:icon rank-b}ull Wing'
+- id: 15930
+  en: '{:icon rank-b}umbling Rose'
+- id: 15932
+  en: '{:icon rank-b}uardian Soul'
+- id: 15934
+  en: '{:icon rank-b}ishing {:icon rank-b}amp'
+- id: 15936
+  en: '{:icon rank-b}ecisive {:icon rank-b}umpkin'
+- id: 15938
+  en: '{:icon rank-b}eeping Lion'
+- id: 15940
+  en: '{:icon rank-b}weet Memories'
+- id: 15942
+  en: '{:icon rank-b}ysterious A{:icon rank-b}yss'
+- id: 15944
+  en: '{:icon rank-b}atal {:icon rank-b}rest'
+- id: 15946
+  en: '{:icon rank-b}ond of Flame'
+- id: 15948
+  en: '{:icon rank-b}enrir'
+- id: 15950
+  en: '{:icon rank-b}ultima Weapon'
+- id: 15951
+  en: >-
+    The {:icon rank-b}eyblade above all others.
+    
+    Increases MP restoration rate by {:color #F0F00080}75%{:reset}
+    
+    once all MP has been consumed.
+- id: 15952
+  en: 'Struggle {:icon rank-b}and'
+- id: 15953
+  en: 'A toy {:icon rank-b}and used in Struggle battles.'
+- id: 15954
+  en: 'Struggle {:icon rank-b}ammer'
+- id: 20021
+  en: 'Two {:icon rank-b}ecome One'
+- id: 20023
+  en: '{:icon rank-b}inner´s {:icon rank-b}roof'
